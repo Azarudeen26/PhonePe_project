@@ -53,7 +53,7 @@ Data sourced from the **PhonePe Pulse GitHub repository**, covering:
 
 ---
 ## Project Structure
-
+---bash
 PHONEPE_PROJECT/
 ├── .streamlit/                        # Streamlit configuration (themes, settings)
 │   └── config.toml                     # Dark mode and other UI preferences
@@ -75,7 +75,7 @@ PHONEPE_PROJECT/
 
 ├── README.md                           # Project documentation
 ├── requirements.txt                    # Python dependencies
-
+```
 ## How to run 
 
 ## clone the repository
